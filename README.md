@@ -1,5 +1,7 @@
-# Beautiful Hugo - An adaptation of the Beautiful Jekyll theme
-
+# Beautiful Hugo - Modified by spiritofjon
+This theme has been personalized mostly in color scheme but also in some functional ways. I highly recommend getting the original upstream version instea of using this custom version.
+* * *
+* * *
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
 
 ## Live demo
