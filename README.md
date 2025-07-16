@@ -6,8 +6,6 @@ This theme has been personalized to my personal tastes. I highly recommend getti
 
 # Beautiful Hugo
 
-* * *
-
 ![Beautiful Hugo Theme Screenshot](https://github.com/halogenica/beautifulhugo/blob/master/images/screenshot.png)
 
 ## Live demo
