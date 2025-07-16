@@ -15,7 +15,7 @@ Install Hugo and create a new site. See [the Hugo documentation](https://gohugo.
 
 Add Beautifulhugo as git submodule:
 
-    $ git submodule add https://github.com/halogenica/beautifulhugo.git themes/beautifulhugo
+    $ git submodule add https://github.com/spiritofjon/beautifulhugo.git themes/beautifulhugo
 
 ### Hugo module
 
