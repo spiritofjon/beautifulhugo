@@ -22,6 +22,11 @@ Add Beautifulhugo as git submodule:
 
     $ git submodule add https://github.com/spiritofjon/beautifulhugo.git themes/beautifulhugo
 
+UPDATE:
+
+    $ git submodule update --remote --merge
+
+
 ### Hugo module
 
 Initialize your site as hugo module:
